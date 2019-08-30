@@ -15,6 +15,7 @@ Syntax highlighted code block
 
 - CS193 Jams 
 - Memes on slides are lit
+- Useful material taught
 
 1. Numbered
 2. List
